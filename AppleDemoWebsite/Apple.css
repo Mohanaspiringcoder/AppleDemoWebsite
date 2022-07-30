@@ -1,0 +1,49 @@
+
+nav{
+margin-top: 30px;
+
+}
+nav img{
+width : auto;
+height : 40px;
+padding-left: 50px;
+}
+nav ul {
+padding-right:600px ;
+}
+
+nav-link{
+    color: aliceblue;
+} 
+.container img{
+    border-radius: 12%;
+}
+.container {
+    margin-top: 5%;
+    background-color: white;
+}
+#left{
+    margin-left: 10%;
+}
+#description{
+    margin-top: 5%;
+}
+.price{
+    margin-left: 40%;
+}
+#mac{
+    margin-top: 35%;
+}
+
+#carouselExampleIndicators{
+    background: #0e0d0d;	
+	margin: 5% 10% 10%;
+	border-radius: 10px;
+}
+.imgs{
+    
+    width: 800px;
+    height: 400px;
+    
+    margin-left: 20%;
+}
